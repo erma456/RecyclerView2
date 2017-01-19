@@ -15,6 +15,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".Hotel" />
+        <activity android:name=".model.Hotel" />
+        <activity android:name=".Adapter.HotelAdapter"></activity>
     </application>
 
 </manifest>
